@@ -26,7 +26,7 @@ My goal is to make the web more intuitive and visually engaging for everyone.
 ---
 
 ## 🌟 Vision
-> **[Insert your vision — e.g., "To empower small businesses with elegant front-end solutions that improve conversion and accessibility."]**
+> **My goal is to make the web more intuitive and visually engaging for everyone**
 
 ---
 
@@ -110,7 +110,7 @@ My goal is to make the web more intuitive and visually engaging for everyone.
 <p>
   <a href="mailto:kwakuannormensah">Email</a> •
   <a href="https://www.linkedin.com/in/annor-mensah-4bb08a195/">LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a>
+  <a href="https://twitter.com/https://x.com/drug_cole">Twitter</a>
 </p>
 
 ---
@@ -135,7 +135,7 @@ If you like my projects or want a frontend developer who:
 - cares about accessibility,
 - delivers pixel-perfect UI,
 - and enjoys collaboration —  
-then **let’s talk**! Reach me at **youremail@domain.com**.
+then **let’s talk**! Reach me at **kwakuannormensah@gmail.com**.
 
 ---
 
