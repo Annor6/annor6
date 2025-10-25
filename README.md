@@ -1,8 +1,8 @@
 # 👋 Hi, I’m **Kwakua Annor Mensah**
 <p align="left">
   <img alt="header" src="https://img.shields.io/badge/ALX-Frontend%20Engineering-0ea5e9?style=flat&logo=github" />
-  <img alt="Ghana" src="https://img.shields.io/badge/Location-YourCity%2C%20Country-2b2b2b?style=flat" />
-  <img alt="kwakuannormensah@gmail.com" src="https://img.shields.io/badge/Email-youremail%40domain.com-orange?style=flat" />
+  <img alt="Ghana" src="https://img.shields.io/badge/Location-Kumasi%2C%20Ghana-2b2b2b?style=flat" />
+  <img alt="kwakuannormensah@gmail.com" src="https://img.shields.io/badge/Email-kwakuannormensah@gmail.com-orange?style=flat" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ My goal is to make the web more intuitive and visually engaging for everyone.
 <p>
   <a href="mailto:kwakuannormensah">Email</a> •
   <a href="https://www.linkedin.com/in/annor-mensah-4bb08a195/">LinkedIn</a> •
-  <a href="https://twitter.com/https://x.com/drug_cole">Twitter</a>
+  <a href="https://x.com/drug_cole">Twitter</a>
 </p>
 
 ---
