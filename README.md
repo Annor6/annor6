@@ -1,8 +1,8 @@
 # 👋 Hi, I’m **Kwakua Annor Mensah**
 <p align="left">
   <img alt="header" src="https://img.shields.io/badge/ALX-Frontend%20Engineering-0ea5e9?style=flat&logo=github" />
-  <img alt="location" src="https://img.shields.io/badge/Location-YourCity%2C%20Country-2b2b2b?style=flat" />
-  <img alt="email" src="https://img.shields.io/badge/Email-youremail%40domain.com-orange?style=flat" />
+  <img alt="Ghana" src="https://img.shields.io/badge/Location-YourCity%2C%20Country-2b2b2b?style=flat" />
+  <img alt="kwakuannormensah@gmail.com" src="https://img.shields.io/badge/Email-youremail%40domain.com-orange?style=flat" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ My goal is to make the web more intuitive and visually engaging for everyone.
     </p>
     <p>
       <strong>Live:</strong> https://your-portfolio.example
-      <br><strong>Repo:</strong> [username/portfolio](https://github.com/username/portfolio)
+      <br><strong>Repo:</strong> [username/portfolio](https://github.com/Annor6/portfolio)
     </p>
   </details>
 </div>
@@ -95,7 +95,7 @@ My goal is to make the web more intuitive and visually engaging for everyone.
 ## 📁 Featured Repositories
 - [interactive-dashboard](https://github.com/username/interactive-dashboard) — Data viz + accessibility
 - [micro-interactions](https://github.com/username/micro-interactions) — Reusable UI patterns
-- [portfolio](https://github.com/username/portfolio) — Personal site with articles and demos
+- [portfolio](https://github.com/Annor6/portfolio) — Personal site with articles and demos
 
 ---
 
@@ -108,8 +108,8 @@ My goal is to make the web more intuitive and visually engaging for everyone.
 
 ## 📫 Get in Touch
 <p>
-  <a href="mailto:youremail@domain.com">Email</a> •
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="mailto:kwakuannormensah">Email</a> •
+  <a href="https://www.linkedin.com/in/annor-mensah-4bb08a195/">LinkedIn</a> •
   <a href="https://twitter.com/yourhandle">Twitter</a>
 </p>
 
