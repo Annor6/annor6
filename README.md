@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Kwakua Annor Mensah**
+# 👋 Hi, I’m **Kwaku Annor Mensah**
 <p align="left">
   <img alt="header" src="https://img.shields.io/badge/ALX-Frontend%20Engineering-0ea5e9?style=flat&logo=github" />
   <img alt="Ghana" src="https://img.shields.io/badge/Location-Kumasi%2C%20Ghana-2b2b2b?style=flat" />
